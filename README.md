@@ -46,9 +46,9 @@ Codex Aperio is my attempt to make learning from official documentation easier, 
 
 ```
 codex-aperio/
-|--- next-app       # Next.js frontend
-|--- python-api     # Fast API backend and AI integration
-| README.md
+├── next-app/          # Next.js frontend
+├── python-api/        # FastAPI backend and AI integration
+└── README.md
 ```
 
 ## Getting Started
