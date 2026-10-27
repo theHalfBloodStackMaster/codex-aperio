@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Next.js
+next-app/node_modules/
+next-app/.next/
+next-app/out/
+
+# Build outputs
+dist/
+build/
+
+# Editor and operating system files
+.DS_Store
+.vscode/
+.idea/
